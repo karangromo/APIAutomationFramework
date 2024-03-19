@@ -1,0 +1,29 @@
+{
+  "gpLinked": [
+    {
+      "gpId": "4WI56260",
+      "isBonusCustomer": false,
+      "isVerifiedByGP": false,
+      "campaignInfo": {
+        "source": "Add Customer",
+        "medium": "GP App",
+        "tags": "Added by GP"
+      },
+      "customerDetails": {
+        "firstName": "Karan",
+        "lastName": "Singh",
+        "kycDetails": {
+          "pan": "CHQPG0979N"
+        },
+        "gender": "Male",
+        "emailId": "karan@maildrop.cc",
+        "permanentAddress": {
+          "pincode": 122002
+        }
+      }
+    }
+  ],
+  "isCustomerGP": false,
+  "isGromoExclusive": false,
+  "primaryPhoneNumber": "4234567891"
+}
